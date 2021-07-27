@@ -3,4 +3,4 @@ this data base mainly stores all information about the books being sold in the s
 
 there is a .docx file in this repository contains a report about it with its all sides you wish to know.
 
-- microsoft sql server was the tool used
+- tool: microsoft sql server
